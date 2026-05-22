@@ -1,4 +1,3 @@
-.env
 __pycache__/
 .DS_Store
 .git-backup/
@@ -25,3 +24,5 @@ AIWriteX.dmg
 .qoder
 license.dat
 build_secrets.json
+config.bat
+node_modules
